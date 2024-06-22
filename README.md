@@ -3,7 +3,6 @@
 - C++
 - C#
 - Python
-- JS
 
 ## 👻 About Me:
 
